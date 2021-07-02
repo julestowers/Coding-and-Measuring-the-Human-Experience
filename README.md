@@ -1,5 +1,6 @@
 # Can Code Measure Experience?
 ## a thought exercise in the digital humanities
+### by: Juliana Torres and Maya Kline-Sharpe
 ![Cartoon](./howto.png)
 
 ----
